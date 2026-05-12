@@ -1,0 +1,901 @@
+id,review,sentiment,review_length,word_count
+0,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+1,Not particularly memorable but not offensive either.,neutral,52,7
+2,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+3,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+4,I was bored within the first 10 minutes. It never got better.,negative,61,12
+5,Cheap and nasty. Looks terrible in real life.,negative,45,8
+6,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+7,"It was an average film. Some parts were good, others less so.",neutral,61,12
+8,Returned immediately. Complete waste of money.,negative,46,6
+9,Returned immediately. Complete waste of money.,negative,46,6
+10,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+11,Outstanding customer service and a top-quality product.,positive,55,7
+12,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+13,Best purchase I have made this year. Highly recommend.,positive,54,9
+14,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+15,Average all round. A solid three-star experience.,neutral,49,7
+16,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+17,Functional and affordable. That is about all there is to say.,neutral,61,11
+18,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+19,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+20,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+21,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+22,Average experience. Would not go out of my way to recommend.,neutral,60,11
+23,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+24,Average experience. Would not go out of my way to recommend.,neutral,60,11
+25,Poorly written and badly directed. A total mess.,negative,48,8
+26,Absolute rubbish. Stopped working after one week.,negative,49,7
+27,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+28,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+29,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+30,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+31,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+32,I want my money back. This movie was absolutely dreadful.,negative,57,10
+33,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+34,Average experience. Would not go out of my way to recommend.,neutral,60,11
+35,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+36,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+37,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+38,Some good moments but overall just average.,neutral,43,7
+39,Not bad for the money. Neutral experience overall.,neutral,50,8
+40,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+41,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+42,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+43,Appalling quality control. Would not recommend to anyone.,negative,57,8
+44,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+45,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+46,"Gets the job done. No more, no less.",neutral,36,8
+47,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+48,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+49,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+50,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+51,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+52,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+53,"Gets the job done. No more, no less.",neutral,36,8
+54,Average all round. A solid three-star experience.,neutral,49,7
+55,"It was an average film. Some parts were good, others less so.",neutral,61,12
+56,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+57,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+58,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+59,The film had potential but did not fully deliver on its promise.,neutral,64,12
+60,It is fine. Arrived on time and works as expected.,neutral,50,10
+61,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+62,"It was an average film. Some parts were good, others less so.",neutral,61,12
+63,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+64,The characters were flat and the story was painfully slow.,negative,58,10
+65,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+66,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+67,Appalling quality control. Would not recommend to anyone.,negative,57,8
+68,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+69,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+70,Returned immediately. Complete waste of money.,negative,46,6
+71,It is fine. Arrived on time and works as expected.,neutral,50,10
+72,It is alright. Middling quality but serves its purpose.,neutral,55,9
+73,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+74,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+75,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+76,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+77,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+78,It is alright. Middling quality but serves its purpose.,neutral,55,9
+79,"Gets the job done. No more, no less.",neutral,36,8
+80,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+81,Awful product. Broke after two days. Total waste of money.,negative,58,10
+82,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+83,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+84,Average quality. It works but I expected better for the price.,neutral,62,11
+85,Poorly written and badly directed. A total mess.,negative,48,8
+86,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+87,It is alright. Middling quality but serves its purpose.,neutral,55,9
+88,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+89,Average all round. A solid three-star experience.,neutral,49,7
+90,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+91,Absolutely love this! It works perfectly and looks great.,positive,57,9
+92,Average experience. Would not go out of my way to recommend.,neutral,60,11
+93,"Gets the job done. No more, no less.",neutral,36,8
+94,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+95,Appalling quality control. Would not recommend to anyone.,negative,57,8
+96,The quality is acceptable. Met my basic requirements.,neutral,53,8
+97,Cheap and nasty. Looks terrible in real life.,negative,45,8
+98,Average experience. Would not go out of my way to recommend.,neutral,60,11
+99,Absolute rubbish. Stopped working after one week.,negative,49,7
+100,Great product! Works exactly as described and arrived quickly.,positive,62,9
+101,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+102,I was bored within the first 10 minutes. It never got better.,negative,61,12
+103,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+104,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+105,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+106,"Gets the job done. No more, no less.",neutral,36,8
+107,I want my money back. This movie was absolutely dreadful.,negative,57,10
+108,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+109,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+110,Some good moments but overall just average.,neutral,43,7
+111,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+112,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+113,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+114,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+115,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+116,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+117,Functional and affordable. That is about all there is to say.,neutral,61,11
+118,Not particularly memorable but not offensive either.,neutral,52,7
+119,"It was an average film. Some parts were good, others less so.",neutral,61,12
+120,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+121,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+122,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+123,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+124,I was bored within the first 10 minutes. It never got better.,negative,61,12
+125,Average experience. Would not go out of my way to recommend.,neutral,60,11
+126,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+127,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+128,Absolutely love this! It works perfectly and looks great.,positive,57,9
+129,Decent enough. I have seen better but also much worse.,neutral,54,10
+130,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+131,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+132,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+133,Absolute rubbish. Stopped working after one week.,negative,49,7
+134,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+135,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+136,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+137,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+138,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+139,Reasonable product. Nothing special but does what it should.,neutral,60,9
+140,Poorly written and badly directed. A total mess.,negative,48,8
+141,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+142,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+143,Great product! Works exactly as described and arrived quickly.,positive,62,9
+144,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+145,Great product! Works exactly as described and arrived quickly.,positive,62,9
+146,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+147,Great product! Works exactly as described and arrived quickly.,positive,62,9
+148,The quality is acceptable. Met my basic requirements.,neutral,53,8
+149,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+150,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+151,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+152,Decent enough. I have seen better but also much worse.,neutral,54,10
+153,Average experience. Would not go out of my way to recommend.,neutral,60,11
+154,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+155,Functional and affordable. That is about all there is to say.,neutral,61,11
+156,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+157,It is alright. Middling quality but serves its purpose.,neutral,55,9
+158,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+159,It is alright. Middling quality but serves its purpose.,neutral,55,9
+160,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+161,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+162,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+163,Poorly written and badly directed. A total mess.,negative,48,8
+164,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+165,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+166,Cheap and nasty. Looks terrible in real life.,negative,45,8
+167,"It was an average film. Some parts were good, others less so.",neutral,61,12
+168,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+169,Awful product. Broke after two days. Total waste of money.,negative,58,10
+170,Absolutely love this! It works perfectly and looks great.,positive,57,9
+171,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+172,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+173,Exceptional storytelling with a message that really resonates.,positive,62,8
+174,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+175,It is alright. Middling quality but serves its purpose.,neutral,55,9
+176,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+177,Not worth a single penny. Broke on first use.,negative,45,9
+178,Great product! Works exactly as described and arrived quickly.,positive,62,9
+179,The characters were flat and the story was painfully slow.,negative,58,10
+180,Appalling quality control. Would not recommend to anyone.,negative,57,8
+181,Appalling quality control. Would not recommend to anyone.,negative,57,8
+182,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+183,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+184,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+185,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+186,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+187,Outstanding customer service and a top-quality product.,positive,55,7
+188,Great product! Works exactly as described and arrived quickly.,positive,62,9
+189,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+190,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+191,Average experience. Would not go out of my way to recommend.,neutral,60,11
+192,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+193,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+194,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+195,Absolutely love this! It works perfectly and looks great.,positive,57,9
+196,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+197,Reasonable product. Nothing special but does what it should.,neutral,60,9
+198,Average experience. Would not go out of my way to recommend.,neutral,60,11
+199,The quality is acceptable. Met my basic requirements.,neutral,53,8
+200,The product is okay. Does the job but nothing more.,neutral,51,10
+201,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+202,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+203,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+204,Cheap and nasty. Looks terrible in real life.,negative,45,8
+205,Some good moments but overall just average.,neutral,43,7
+206,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+207,Exceptional storytelling with a message that really resonates.,positive,62,8
+208,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+209,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+210,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+211,Average quality. It works but I expected better for the price.,neutral,62,11
+212,Absolutely love this! It works perfectly and looks great.,positive,57,9
+213,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+214,The characters were so well developed. I felt every emotion with them.,positive,70,12
+215,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+216,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+217,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+218,Some good moments but overall just average.,neutral,43,7
+219,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+220,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+221,Misleading description. The product is nothing like what was shown.,negative,67,10
+222,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+223,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+224,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+225,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+226,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+227,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+228,Some good moments but overall just average.,neutral,43,7
+229,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+230,Great product! Works exactly as described and arrived quickly.,positive,62,9
+231,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+232,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+233,Not bad for the money. Neutral experience overall.,neutral,50,8
+234,Some good moments but overall just average.,neutral,43,7
+235,Best purchase I have made this year. Highly recommend.,positive,54,9
+236,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+237,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+238,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+239,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+240,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+241,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+242,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+243,Reasonable product. Nothing special but does what it should.,neutral,60,9
+244,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+245,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+246,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+247,The quality is amazing for the price. Very impressed.,positive,53,9
+248,The characters were flat and the story was painfully slow.,negative,58,10
+249,Nothing special but a passable way to spend an evening.,neutral,55,10
+250,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+251,Absolute rubbish. Stopped working after one week.,negative,49,7
+252,Outstanding customer service and a top-quality product.,positive,55,7
+253,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+254,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+255,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+256,Cheap and nasty. Looks terrible in real life.,negative,45,8
+257,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+258,The characters were flat and the story was painfully slow.,negative,58,10
+259,I want my money back. This movie was absolutely dreadful.,negative,57,10
+260,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+261,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+262,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+263,Decent enough. I have seen better but also much worse.,neutral,54,10
+264,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+265,Average all round. A solid three-star experience.,neutral,49,7
+266,Best purchase I have made this year. Highly recommend.,positive,54,9
+267,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+268,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+269,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+270,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+271,Some good moments but overall just average.,neutral,43,7
+272,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+273,Functional and affordable. That is about all there is to say.,neutral,61,11
+274,The film had potential but did not fully deliver on its promise.,neutral,64,12
+275,The quality is acceptable. Met my basic requirements.,neutral,53,8
+276,Average quality. It works but I expected better for the price.,neutral,62,11
+277,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+278,Not worth a single penny. Broke on first use.,negative,45,9
+279,Average experience. Would not go out of my way to recommend.,neutral,60,11
+280,Some good moments but overall just average.,neutral,43,7
+281,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+282,Outstanding customer service and a top-quality product.,positive,55,7
+283,Average quality. It works but I expected better for the price.,neutral,62,11
+284,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+285,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+286,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+287,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+288,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+289,Not particularly memorable but not offensive either.,neutral,52,7
+290,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+291,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+292,Returned immediately. Complete waste of money.,negative,46,6
+293,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+294,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+295,Appalling quality control. Would not recommend to anyone.,negative,57,8
+296,Super fast delivery and the item was even better than expected.,positive,63,11
+297,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+298,Outstanding customer service and a top-quality product.,positive,55,7
+299,Absolute rubbish. Stopped working after one week.,negative,49,7
+300,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+301,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+302,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+303,Not particularly memorable but not offensive either.,neutral,52,7
+304,Average all round. A solid three-star experience.,neutral,49,7
+305,It is alright. Middling quality but serves its purpose.,neutral,55,9
+306,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+307,Awful product. Broke after two days. Total waste of money.,negative,58,10
+308,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+309,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+310,Outstanding customer service and a top-quality product.,positive,55,7
+311,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+312,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+313,The quality is acceptable. Met my basic requirements.,neutral,53,8
+314,The characters were flat and the story was painfully slow.,negative,58,10
+315,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+316,Not particularly memorable but not offensive either.,neutral,52,7
+317,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+318,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+319,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+320,Nothing special but a passable way to spend an evening.,neutral,55,10
+321,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+322,I was completely captivated from the opening scene to the final credits.,positive,72,12
+323,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+324,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+325,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+326,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+327,Poorly written and badly directed. A total mess.,negative,48,8
+328,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+329,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+330,Cheap and nasty. Looks terrible in real life.,negative,45,8
+331,It is fine. Arrived on time and works as expected.,neutral,50,10
+332,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+333,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+334,I want my money back. This movie was absolutely dreadful.,negative,57,10
+335,It is alright. Middling quality but serves its purpose.,neutral,55,9
+336,Average experience. Would not go out of my way to recommend.,neutral,60,11
+337,The quality is acceptable. Met my basic requirements.,neutral,53,8
+338,The characters were so well developed. I felt every emotion with them.,positive,70,12
+339,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+340,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+341,Poorly written and badly directed. A total mess.,negative,48,8
+342,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+343,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+344,Absolutely love this! It works perfectly and looks great.,positive,57,9
+345,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+346,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+347,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+348,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+349,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+350,Great product! Works exactly as described and arrived quickly.,positive,62,9
+351,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+352,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+353,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+354,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+355,Functional and affordable. That is about all there is to say.,neutral,61,11
+356,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+357,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+358,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+359,The characters were so well developed. I felt every emotion with them.,positive,70,12
+360,Great product! Works exactly as described and arrived quickly.,positive,62,9
+361,Decent enough. I have seen better but also much worse.,neutral,54,10
+362,Some good moments but overall just average.,neutral,43,7
+363,Some good moments but overall just average.,neutral,43,7
+364,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+365,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+366,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+367,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+368,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+369,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+370,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+371,Average experience. Would not go out of my way to recommend.,neutral,60,11
+372,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+373,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+374,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+375,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+376,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+377,Average quality. It works but I expected better for the price.,neutral,62,11
+378,I was completely captivated from the opening scene to the final credits.,positive,72,12
+379,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+380,Nothing special but a passable way to spend an evening.,neutral,55,10
+381,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+382,Poorly written and badly directed. A total mess.,negative,48,8
+383,"Gets the job done. No more, no less.",neutral,36,8
+384,The characters were so well developed. I felt every emotion with them.,positive,70,12
+385,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+386,The characters were so well developed. I felt every emotion with them.,positive,70,12
+387,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+388,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+389,Reasonable product. Nothing special but does what it should.,neutral,60,9
+390,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+391,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+392,Average experience. Would not go out of my way to recommend.,neutral,60,11
+393,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+394,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+395,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+396,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+397,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+398,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+399,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+400,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+401,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+402,The characters were so well developed. I felt every emotion with them.,positive,70,12
+403,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+404,"It was an average film. Some parts were good, others less so.",neutral,61,12
+405,Functional and affordable. That is about all there is to say.,neutral,61,11
+406,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+407,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+408,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+409,Reasonable product. Nothing special but does what it should.,neutral,60,9
+410,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+411,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+412,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+413,Misleading description. The product is nothing like what was shown.,negative,67,10
+414,Exceptional storytelling with a message that really resonates.,positive,62,8
+415,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+416,Outstanding customer service and a top-quality product.,positive,55,7
+417,The characters were flat and the story was painfully slow.,negative,58,10
+418,Super fast delivery and the item was even better than expected.,positive,63,11
+419,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+420,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+421,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+422,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+423,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+424,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+425,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+426,The characters were so well developed. I felt every emotion with them.,positive,70,12
+427,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+428,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+429,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+430,Absolutely love this! It works perfectly and looks great.,positive,57,9
+431,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+432,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+433,It is alright. Middling quality but serves its purpose.,neutral,55,9
+434,Absolutely love this! It works perfectly and looks great.,positive,57,9
+435,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+436,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+437,The characters were flat and the story was painfully slow.,negative,58,10
+438,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+439,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+440,Appalling quality control. Would not recommend to anyone.,negative,57,8
+441,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+442,Appalling quality control. Would not recommend to anyone.,negative,57,8
+443,I was completely captivated from the opening scene to the final credits.,positive,72,12
+444,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+445,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+446,Cheap and nasty. Looks terrible in real life.,negative,45,8
+447,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+448,Functional and affordable. That is about all there is to say.,neutral,61,11
+449,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+450,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+451,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+452,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+453,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+454,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+455,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+456,I was bored within the first 10 minutes. It never got better.,negative,61,12
+457,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+458,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+459,Appalling quality control. Would not recommend to anyone.,negative,57,8
+460,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+461,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+462,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+463,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+464,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+465,The quality is acceptable. Met my basic requirements.,neutral,53,8
+466,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+467,The quality is amazing for the price. Very impressed.,positive,53,9
+468,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+469,Average experience. Would not go out of my way to recommend.,neutral,60,11
+470,Returned immediately. Complete waste of money.,negative,46,6
+471,Decent enough. I have seen better but also much worse.,neutral,54,10
+472,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+473,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+474,Absolutely love this! It works perfectly and looks great.,positive,57,9
+475,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+476,Returned immediately. Complete waste of money.,negative,46,6
+477,I was completely captivated from the opening scene to the final credits.,positive,72,12
+478,Super fast delivery and the item was even better than expected.,positive,63,11
+479,Nothing special but a passable way to spend an evening.,neutral,55,10
+480,The characters were flat and the story was painfully slow.,negative,58,10
+481,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+482,It is alright. Middling quality but serves its purpose.,neutral,55,9
+483,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+484,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+485,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+486,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+487,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+488,Returned immediately. Complete waste of money.,negative,46,6
+489,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+490,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+491,Functional and affordable. That is about all there is to say.,neutral,61,11
+492,Exceptional storytelling with a message that really resonates.,positive,62,8
+493,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+494,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+495,The film had potential but did not fully deliver on its promise.,neutral,64,12
+496,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+497,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+498,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+499,Not worth a single penny. Broke on first use.,negative,45,9
+500,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+501,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+502,"Gets the job done. No more, no less.",neutral,36,8
+503,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+504,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+505,It is fine. Arrived on time and works as expected.,neutral,50,10
+506,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+507,Misleading description. The product is nothing like what was shown.,negative,67,10
+508,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+509,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+510,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+511,Outstanding customer service and a top-quality product.,positive,55,7
+512,Not particularly memorable but not offensive either.,neutral,52,7
+513,The film had potential but did not fully deliver on its promise.,neutral,64,12
+514,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+515,The product is okay. Does the job but nothing more.,neutral,51,10
+516,Outstanding customer service and a top-quality product.,positive,55,7
+517,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+518,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+519,Returned immediately. Complete waste of money.,negative,46,6
+520,The characters were so well developed. I felt every emotion with them.,positive,70,12
+521,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+522,Great product! Works exactly as described and arrived quickly.,positive,62,9
+523,I want my money back. This movie was absolutely dreadful.,negative,57,10
+524,The product is okay. Does the job but nothing more.,neutral,51,10
+525,Cheap and nasty. Looks terrible in real life.,negative,45,8
+526,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+527,Not bad for the money. Neutral experience overall.,neutral,50,8
+528,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+529,The product is okay. Does the job but nothing more.,neutral,51,10
+530,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+531,Absolute rubbish. Stopped working after one week.,negative,49,7
+532,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+533,I was bored within the first 10 minutes. It never got better.,negative,61,12
+534,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+535,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+536,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+537,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+538,Not particularly memorable but not offensive either.,neutral,52,7
+539,I want my money back. This movie was absolutely dreadful.,negative,57,10
+540,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+541,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+542,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+543,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+544,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+545,Not bad for the money. Neutral experience overall.,neutral,50,8
+546,I was bored within the first 10 minutes. It never got better.,negative,61,12
+547,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+548,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+549,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+550,Average all round. A solid three-star experience.,neutral,49,7
+551,Absolutely love this! It works perfectly and looks great.,positive,57,9
+552,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+553,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+554,Great product! Works exactly as described and arrived quickly.,positive,62,9
+555,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+556,The quality is amazing for the price. Very impressed.,positive,53,9
+557,Not bad for the money. Neutral experience overall.,neutral,50,8
+558,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+559,Best purchase I have made this year. Highly recommend.,positive,54,9
+560,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+561,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+562,Awful product. Broke after two days. Total waste of money.,negative,58,10
+563,Average quality. It works but I expected better for the price.,neutral,62,11
+564,Absolute rubbish. Stopped working after one week.,negative,49,7
+565,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+566,I want my money back. This movie was absolutely dreadful.,negative,57,10
+567,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+568,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+569,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+570,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+571,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+572,The characters were flat and the story was painfully slow.,negative,58,10
+573,Not particularly memorable but not offensive either.,neutral,52,7
+574,"Gets the job done. No more, no less.",neutral,36,8
+575,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+576,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+577,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+578,The quality is acceptable. Met my basic requirements.,neutral,53,8
+579,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+580,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+581,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+582,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+583,The characters were so well developed. I felt every emotion with them.,positive,70,12
+584,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+585,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+586,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+587,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+588,Nothing special but a passable way to spend an evening.,neutral,55,10
+589,Exceptional storytelling with a message that really resonates.,positive,62,8
+590,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+591,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+592,Exceptional storytelling with a message that really resonates.,positive,62,8
+593,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+594,It is alright. Middling quality but serves its purpose.,neutral,55,9
+595,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+596,This movie was absolutely fantastic! The acting was superb and the story kept me hooked.,positive,88,15
+597,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+598,Exceptional storytelling with a message that really resonates.,positive,62,8
+599,Cheap and nasty. Looks terrible in real life.,negative,45,8
+600,Best purchase I have made this year. Highly recommend.,positive,54,9
+601,Best purchase I have made this year. Highly recommend.,positive,54,9
+602,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+603,Functional and affordable. That is about all there is to say.,neutral,61,11
+604,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+605,Average all round. A solid three-star experience.,neutral,49,7
+606,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+607,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+608,Outstanding customer service and a top-quality product.,positive,55,7
+609,Appalling quality control. Would not recommend to anyone.,negative,57,8
+610,Awful product. Broke after two days. Total waste of money.,negative,58,10
+611,Absolute rubbish. Stopped working after one week.,negative,49,7
+612,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+613,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+614,Absolute rubbish. Stopped working after one week.,negative,49,7
+615,The product is okay. Does the job but nothing more.,neutral,51,10
+616,Some interesting ideas that were not fully explored. Just okay.,neutral,63,10
+617,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+618,Absolutely love this! It works perfectly and looks great.,positive,57,9
+619,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+620,Awful product. Broke after two days. Total waste of money.,negative,58,10
+621,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+622,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+623,Outstanding customer service and a top-quality product.,positive,55,7
+624,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+625,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+626,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+627,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+628,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+629,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+630,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+631,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+632,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+633,Utterly forgettable and pointless. A waste of everyone's talent.,negative,64,9
+634,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+635,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+636,The worst movie I have seen in years. Completely unwatchable.,negative,61,10
+637,"Gets the job done. No more, no less.",neutral,36,8
+638,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+639,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+640,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+641,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+642,Cheap and nasty. Looks terrible in real life.,negative,45,8
+643,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+644,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+645,Absolute rubbish. Stopped working after one week.,negative,49,7
+646,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+647,Great product! Works exactly as described and arrived quickly.,positive,62,9
+648,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+649,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+650,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+651,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+652,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+653,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+654,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+655,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+656,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+657,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+658,Appalling quality control. Would not recommend to anyone.,negative,57,8
+659,A feel-good movie that left me smiling for days. Highly enjoyable.,positive,66,11
+660,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+661,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+662,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+663,"Wonderful script, great acting, and a story that stays with you long after.",positive,75,13
+664,Super fast delivery and the item was even better than expected.,positive,63,11
+665,The characters were so well developed. I felt every emotion with them.,positive,70,12
+666,It was fine. Exactly what you would expect from this type of film.,neutral,66,13
+667,Cheap and nasty. Looks terrible in real life.,negative,45,8
+668,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+669,Great product! Works exactly as described and arrived quickly.,positive,62,9
+670,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+671,The quality is amazing for the price. Very impressed.,positive,53,9
+672,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+673,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+674,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+675,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+676,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+677,Absolutely love this! It works perfectly and looks great.,positive,57,9
+678,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+679,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+680,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+681,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+682,Super fast delivery and the item was even better than expected.,positive,63,11
+683,Poorly written and badly directed. A total mess.,negative,48,8
+684,Some good moments but overall just average.,neutral,43,7
+685,I was bored within the first 10 minutes. It never got better.,negative,61,12
+686,Cheap and nasty. Looks terrible in real life.,negative,45,8
+687,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+688,Appalling quality control. Would not recommend to anyone.,negative,57,8
+689,I was bored within the first 10 minutes. It never got better.,negative,61,12
+690,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+691,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+692,The quality is acceptable. Met my basic requirements.,neutral,53,8
+693,Appalling quality control. Would not recommend to anyone.,negative,57,8
+694,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+695,Poorly written and badly directed. A total mess.,negative,48,8
+696,Okay product. Not amazing but not terrible. Neutral feelings.,neutral,61,9
+697,The quality is acceptable. Met my basic requirements.,neutral,53,8
+698,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+699,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+700,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+701,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+702,Returned immediately. Complete waste of money.,negative,46,6
+703,Worst purchase ever. Cheap materials and poor craftsmanship.,negative,60,8
+704,Not bad for the money. Neutral experience overall.,neutral,50,8
+705,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+706,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+707,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+708,Do not buy this. It is a scam. The quality is shocking.,negative,55,12
+709,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+710,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+711,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+712,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+713,I want my money back. This movie was absolutely dreadful.,negative,57,10
+714,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+715,Not worth a single penny. Broke on first use.,negative,45,9
+716,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+717,"The movie was okay. Not great, but not terrible either.",neutral,55,10
+718,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+719,"Terrible screenplay, wooden acting, and a plot full of holes.",negative,61,10
+720,I was completely captivated from the opening scene to the final credits.,positive,72,12
+721,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+722,The characters were so well developed. I felt every emotion with them.,positive,70,12
+723,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+724,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+725,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+726,Terrible movie. Waste of two hours. The plot made no sense at all.,negative,66,13
+727,Reasonable product. Nothing special but does what it should.,neutral,60,9
+728,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+729,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+730,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+731,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+732,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+733,Returned immediately. Complete waste of money.,negative,46,6
+734,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+735,Absolute rubbish. Stopped working after one week.,negative,49,7
+736,Heartwarming and funny in equal measure. A perfect family film.,positive,63,10
+737,Five stars all round. Fast shipping and perfect condition.,positive,58,9
+738,Exceptional storytelling with a message that really resonates.,positive,62,8
+739,I was bored within the first 10 minutes. It never got better.,negative,61,12
+740,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+741,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+742,Decent enough. I have seen better but also much worse.,neutral,54,10
+743,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+744,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+745,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+746,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+747,Outstanding customer service and a top-quality product.,positive,55,7
+748,"Gets the job done. No more, no less.",neutral,36,8
+749,Awful product. Broke after two days. Total waste of money.,negative,58,10
+750,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+751,Completely useless. Does not work as advertised. Avoid.,negative,55,8
+752,It is alright. Middling quality but serves its purpose.,neutral,55,9
+753,Reasonable product. Nothing special but does what it should.,neutral,60,9
+754,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+755,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+756,Appalling quality control. Would not recommend to anyone.,negative,57,8
+757,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+758,Great product! Works exactly as described and arrived quickly.,positive,62,9
+759,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+760,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+761,Exactly what I needed. Works flawlessly. Very satisfied.,positive,56,8
+762,Very poor quality. Fell apart immediately. Total disappointment.,negative,64,8
+763,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+764,Cheap and nasty. Looks terrible in real life.,negative,45,8
+765,Not particularly memorable but not offensive either.,neutral,52,7
+766,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+767,It is alright. Middling quality but serves its purpose.,neutral,55,9
+768,Not particularly memorable but not offensive either.,neutral,52,7
+769,The characters were flat and the story was painfully slow.,negative,58,10
+770,I want my money back. This movie was absolutely dreadful.,negative,57,10
+771,Super fast delivery and the item was even better than expected.,positive,63,11
+772,Cheap and nasty. Looks terrible in real life.,negative,45,8
+773,One of the most touching movies I have ever watched. Truly inspiring.,positive,69,12
+774,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+775,Average experience. Would not go out of my way to recommend.,neutral,60,11
+776,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+777,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+778,"Excellent quality, very happy with my purchase. Will buy again.",positive,63,10
+779,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+780,It is alright. Middling quality but serves its purpose.,neutral,55,9
+781,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+782,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+783,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+784,Absolutely loved it! The plot twists were unexpected and thrilling.,positive,67,10
+785,"Gets the job done. No more, no less.",neutral,36,8
+786,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+787,A complete disaster from beginning to end. Hugely disappointing.,negative,64,9
+788,Average all round. A solid three-star experience.,neutral,49,7
+789,"Gets the job done. No more, no less.",neutral,36,8
+790,The special effects were cheap and the dialogue was cringeworthy.,negative,65,10
+791,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+792,Misleading description. The product is nothing like what was shown.,negative,67,10
+793,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+794,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+795,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+796,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+797,It is fine. Arrived on time and works as expected.,neutral,50,10
+798,Decent enough. I have seen better but also much worse.,neutral,54,10
+799,"Satisfactory purchase. Could have been better, could have been worse.",neutral,69,10
+800,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+801,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+802,Not worth a single penny. Broke on first use.,negative,45,9
+803,"An ordinary product. Nothing to complain about, nothing to rave about.",neutral,70,11
+804,Incredible performance by the entire cast. Loved every minute of it.,positive,68,11
+805,Average quality. It works but I expected better for the price.,neutral,62,11
+806,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+807,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+808,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+809,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+810,It is fine. Arrived on time and works as expected.,neutral,50,10
+811,I want my money back. This movie was absolutely dreadful.,negative,57,10
+812,The quality is amazing for the price. Very impressed.,positive,53,9
+813,The quality is amazing for the price. Very impressed.,positive,53,9
+814,An emotional rollercoaster in the best possible way. Loved it!,positive,62,10
+815,Not bad for the money. Neutral experience overall.,neutral,50,8
+816,The quality is acceptable. Met my basic requirements.,neutral,53,8
+817,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+818,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+819,The best movie of the year without a doubt. Stunning visuals.,positive,61,11
+820,Functional and affordable. That is about all there is to say.,neutral,61,11
+821,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+822,"Not bad, not great. A mediocre experience overall.",neutral,50,8
+823,The acting was okay. The story was reasonably entertaining.,neutral,59,9
+824,The quality is amazing for the price. Very impressed.,positive,53,9
+825,The plot was acceptable but the ending felt a bit rushed.,neutral,57,11
+826,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+827,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+828,The characters were so well developed. I felt every emotion with them.,positive,70,12
+829,The characters were flat and the story was painfully slow.,negative,58,10
+830,Does the job adequately. Nothing exceptional to report.,neutral,55,8
+831,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+832,One of the worst films I have ever seen. Do not bother watching.,negative,64,13
+833,Absolutely love this! It works perfectly and looks great.,positive,57,9
+834,Absolutely love this! It works perfectly and looks great.,positive,57,9
+835,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+836,Decent enough. I have seen better but also much worse.,neutral,54,10
+837,Brilliant from start to finish. The pacing was perfect.,positive,55,9
+838,Not particularly memorable but not offensive either.,neutral,52,7
+839,Nothing special but a passable way to spend an evening.,neutral,55,10
+840,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+841,Absolute rubbish. Stopped working after one week.,negative,49,7
+842,The characters were flat and the story was painfully slow.,negative,58,10
+843,Brilliant product. Does exactly what it says on the tin.,positive,56,10
+844,I was bored within the first 10 minutes. It never got better.,negative,61,12
+845,I want my money back. This movie was absolutely dreadful.,negative,57,10
+846,A masterpiece of modern cinema. The director did an outstanding job.,positive,68,11
+847,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+848,The chemistry between the lead actors was electric. Very entertaining.,positive,70,10
+849,Nothing made sense in this film. Very frustrating to watch.,negative,59,10
+850,Exceptional storytelling with a message that really resonates.,positive,62,8
+851,Awful acting and a storyline that went nowhere. Very disappointing.,negative,67,10
+852,Average quality. It works but I expected better for the price.,neutral,62,11
+853,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+854,Functional and affordable. That is about all there is to say.,neutral,61,11
+855,It was watchable but I probably would not recommend it strongly.,neutral,64,11
+856,Dreadful. Painful to sit through. Avoid at all costs.,negative,53,9
+857,It is alright. Middling quality but serves its purpose.,neutral,55,9
+858,I was bored within the first 10 minutes. It never got better.,negative,61,12
+859,Super fast delivery and the item was even better than expected.,positive,63,11
+860,Boring and predictable. I nearly fell asleep halfway through.,negative,61,9
+861,Average all round. A solid three-star experience.,neutral,49,7
+862,One of the best films I have seen in years. Highly recommend to everyone.,positive,73,14
+863,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+864,Average quality. It works but I expected better for the price.,neutral,62,11
+865,Amazing cinematography and a brilliant storyline. A must-watch!,positive,63,8
+866,A middle-of-the-road film. Neither impressive nor terrible.,neutral,59,7
+867,I want my money back. This movie was absolutely dreadful.,negative,57,10
+868,Not particularly memorable but not offensive either.,neutral,52,7
+869,Reasonable product. Nothing special but does what it should.,neutral,60,9
+870,"Gets the job done. No more, no less.",neutral,36,8
+871,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+872,Returned immediately. Complete waste of money.,negative,46,6
+873,Super fast delivery and the item was even better than expected.,positive,63,11
+874,A huge disappointment. The trailer was far more interesting than the film.,negative,74,12
+875,Poorly written and badly directed. A total mess.,negative,48,8
+876,Super fast delivery and the item was even better than expected.,positive,63,11
+877,This film restored my faith in Hollywood. Simply outstanding.,positive,61,9
+878,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+879,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
+880,A standard entry in the genre. Nothing to get excited about.,neutral,60,11
+881,Reasonable product. Nothing special but does what it should.,neutral,60,9
+882,Terrible quality. Looks nothing like the photos. Very disappointed.,negative,67,9
+883,Not particularly memorable but not offensive either.,neutral,52,7
+884,Average quality. It works but I expected better for the price.,neutral,62,11
+885,Arrived damaged and the company refused to help. Disgraceful service.,negative,69,10
+886,Awful product. Broke after two days. Total waste of money.,negative,58,10
+887,Not bad for the money. Neutral experience overall.,neutral,50,8
+888,"Gets the job done. No more, no less.",neutral,36,8
+889,Zero stars if I could. Dreadful product and even worse service.,negative,63,11
+890,Not bad for the money. Neutral experience overall.,neutral,50,8
+891,Poorly written and badly directed. A total mess.,negative,48,8
+892,I was bored within the first 10 minutes. It never got better.,negative,61,12
+893,This film exceeded all my expectations. Beautiful and moving.,positive,61,9
+894,Returned immediately. Complete waste of money.,negative,46,6
+895,Appalling quality control. Would not recommend to anyone.,negative,57,8
+896,Absolute rubbish. Stopped working after one week.,negative,49,7
+897,The product is okay. Does the job but nothing more.,neutral,51,10
+898,Nothing special but a passable way to spend an evening.,neutral,55,10
+899,I was blown away by the special effects and the emotional depth of the story.,positive,77,15
